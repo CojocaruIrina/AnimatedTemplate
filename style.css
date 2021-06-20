@@ -1,0 +1,6 @@
+/* Media Query: Large Smartphone (Vertical) */
+@media screen and (max-width: 600px) {
+    body{
+      width: 100%;
+    }
+  }
